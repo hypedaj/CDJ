@@ -1,0 +1,9 @@
+img{
+	width: auto;
+	height: auto;
+}
+ul{
+	padding:0px;
+	margin-left: 3px;
+	list-style-type: none;
+}
